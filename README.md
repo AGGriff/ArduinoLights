@@ -1,1 +1,2 @@
-# ArduinoLights
+The purpose of this program is to turn lights on and off...
+It's pretty straight forward.
